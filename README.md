@@ -1,5 +1,9 @@
 # React.js CRUD App with React Router & Axios
 
+npm install
+npm start
+
+
 Build a React.js CRUD Application to consume Web API, display and modify data with Router, Axios & Bootstrap.
 
 React Tutorial Application in that:
